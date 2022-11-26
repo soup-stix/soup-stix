@@ -38,8 +38,10 @@
 <br>
 - 👀 I’m interested in ...
       App, Web, Discord Bot development, Image processing and DSA.
+<br>
 - 🌱 I’m currently learning ...
       Flutter, Rest API, React, Django
+<br>
 - 💞️ I’m looking to collaborate on ...
       Flutter App Dev, Web dev, AI, ML projects 
 <!---
