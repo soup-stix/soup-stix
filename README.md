@@ -13,6 +13,7 @@
 </div>
 
 <hr class="rounded">
+
 - 👋 Hi, I’m @soup-stix
       My name is A. Anand, I am a junior persuing Bachelors in Information Technology at SSN college of engineering.
 <br>
