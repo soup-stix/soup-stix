@@ -28,7 +28,6 @@
 
 - 💞️ I’m looking to collaborate on ...
       Flutter App Dev, Web dev, AI, ML projects 
-<br>
 <hr class="rounded">
 - 🛠️ Languages and Tools
 <div align="left">
