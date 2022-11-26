@@ -14,7 +14,7 @@
 
 <hr class="rounded">
 
-<h1>About me:</h1>
+<h4>About me:</h4>
 
 - 👋 Hi, I’m @soup-stix
       My name is A. Anand, I am a junior persuing Bachelors in Information Technology at SSN college of engineering.
@@ -32,8 +32,7 @@
       Flutter App Dev, Web dev, AI, ML projects 
 <hr class="rounded">
 
-- 🛠️ Languages and Tools
-<h1>🛠️ Languages and Tools:</h1>
+<h4>🛠️ Languages and Tools:</h4>
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -48,7 +47,7 @@
 </div>
 <hr class="rounded">
 
-- 🔥My Stats
+<h4>🔥My Stats</h4>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soup-stix&theme=dark&background=000000)](https://git.io/streak-stats)
 
