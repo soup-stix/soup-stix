@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300" height="300"/>
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300" height="150"/>
 </div>
 
 <div id="badges" align="center">
