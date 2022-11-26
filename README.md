@@ -29,6 +29,7 @@
 - 💞️ I’m looking to collaborate on ...
       Flutter App Dev, Web dev, AI, ML projects 
 <hr class="rounded">
+
 - 🛠️ Languages and Tools
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -45,6 +46,7 @@
 <hr class="rounded">
 
 - 🔥My Stats
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soup-stix)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
