@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @soup-stix
-      My name is A. Anand, I am a junior persuing Bachelors in Information Technology at SSN college of engineering.
-- 📫 How to reach me ...
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="100"/>
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -17,6 +14,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" border-radius=20px/>
   </a>
 </div>
+
+
+- 👋 Hi, I’m @soup-stix
+      My name is A. Anand, I am a junior persuing Bachelors in Information Technology at SSN college of engineering.
+
+
 
 - 🛠️ Languages and Tools
 <div align="left">
