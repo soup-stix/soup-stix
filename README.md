@@ -47,7 +47,7 @@
 </div>
 <hr class="rounded">
 
-<h4>🔥My Stats</h4>
+<h4>🔥My Stats:</h4>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soup-stix&theme=dark&background=000000)](https://git.io/streak-stats)
 
