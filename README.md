@@ -17,19 +17,19 @@
 <h4>About me:</h4>
 
 - 👋 Hi, I’m @soup-stix
-      My name is A. Anand, I am a junior persuing Bachelors in Information Technology at SSN college of engineering.
+      My name is A. Anand, I am a senior persuing Bachelors in Information Technology at SSN college of engineering.
 <br>
 
 - 👀 I’m interested in ...
-      App, Web, Discord Bot development, Image processing and DSA.
+      App, Web, Machine Learning, Image processing and DSA.
 <br>
 
 - 🌱 I’m currently learning ...
-      Flutter, Rest API, React, Django
+      AWS, Vue, React, Django, Springboot
 <br>
 
 - 💞️ I’m looking to collaborate on ...
-      Flutter App Dev, Web dev, AI, ML projects 
+      Flutter App Dev, Web dev(Vue, Angular, React), AI, ML projects 
 <hr class="rounded">
 
 <h4>🛠️ Languages and Tools:</h4>
